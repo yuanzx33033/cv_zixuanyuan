@@ -1,12 +1,14 @@
 ---
-permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+ permalink: /
+-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
++title: "About Me"
+ excerpt: "About Me"
+ author_profile: true
+ redirect_from: 
+   - /about/
+   - /about.html
 ---
-About Me
-======
+
 I am a Ph.D. student in Rutgers Data Mining and Business Analytics, working with my advisor [Prof. Hui Xiong](http://datamining.rutgers.edu/). My research interests lie in the general area of urban computing and financial applications, particularly in spatiotemporal analysis, meta learning and probabilistic graphical models, as well as their applications in POI recommendation, quantitative trading, event-driven investing.
 
 Education 
