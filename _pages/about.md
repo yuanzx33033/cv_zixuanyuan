@@ -11,13 +11,13 @@ I am a Ph.D. student in Rutgers Data Mining and Business Analytics, working with
 
 Education 
 ======
-* Ph.D. in Data Mining and Business Analytics. 2018-2023
+* Ph.D. in Data Mining and Business Analytics. 2018 - 2023.
   * Rutgers, The State University of New Jersey.
   * Advisor: Prof. Hui Xiong
 
-* M.S. in Information Technology. 2015-2017
+* M.S. in Information Technology. 2015 - 2017.
   * Rutgers, The State University of New Jersey.
   * Advisor: Prof. Hui Xiong
 
-* B.S. in Economics. 2011-2015
+* B.S. in Economics. 2011 - 2015.
   * Tongji University.
