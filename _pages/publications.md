@@ -7,10 +7,11 @@ author_profile: true
 
 Papers (* equal contribution)
 =========
- 
- 
- 
- 
+  
+  
+  
+  
+  
 2020
 ---------
 1. **Spatio-Temporal Dual Graph Attention Network for Query-POI Matching** [[PDF]]('https://www.researchgate.net/publication/342215590_Spatio-Temporal_Dual_Graph_Attention_Network_for_Query-POI_Matching')  
