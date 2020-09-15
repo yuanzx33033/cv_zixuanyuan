@@ -14,14 +14,6 @@ Papers (\* equal contribution)
   
   
   
-Preprint
---------
-**1. Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** <br>
-<ins>**Zixuan Yuan**</ins>, Hao Liu, Renjun Hu, Denghui Zhang, Hui Xiong, Ding Chen.  
-**2. E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce** [<a href='https://arxiv.org/pdf/2009.02835.pdf'>PDF</a>] <br>
-Denghui Zhang, <ins>**Zixuan Yuan**</ins>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang,Pengyang Wang, Hui Xiong. 
-  
-  
   
 2020
 ---------
